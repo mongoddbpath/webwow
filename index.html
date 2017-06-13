@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- 响应式布局 -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="../img/smile.ico"/>  
+<title>Homework</title>
+	<link rel="stylesheet" href="css/user.css" type="text/css"/>
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css"/>
+<!-- 	<script src="jquery.min.js"></script> -->
+<!-- 	<script src="../verdor/jquery/jquery-3.1.1.min.js"></script> -->
+	<script type="text/javascript" src="../vendor/jquery/bootstrap.min.js"></script>
+<!-- 	<script src="../vendor/jquery/username.js"></script> -->
+<!-- 	<script src="js/login.js"></script> -->
+</head>
+<body>
+<!-- 表单 -->
+<div class="container">
+<div class="row" style="margin-top:30px;">
+<div class="col-md-6" style="border-right:1px solid #ddd;">
+<div class="well col-md-10">
+<h3>用户登录</h3>
+<div class="input-group input-group-md">
+<span class="input-group-addon"  id="sizing-addon1"><i class="glyphicon glyphicon-user" aria-hidden="true"></i></span>
+<input type="text" id="username" class="form-control" placeholder="账号" aria-describedby="sizing-addon1" pattern="[0-9]{10}" title="请输入10位数字的账号" autofocus="on"/>
+</div>
+<div class="input-group input-group-md">
+<span class="input-group-addon" id="sizing-addon1"><i class="glyphicon glyphicon-lock"></i></span>
+<input type="password" id="password" class="form-control" placeholder="密码" aria-describedby="sizing-addon1"/>
+</div>
+<div class="well well-sm" style="text-align:center;">
+<input type="radio" name="kind" value="teacher" checked="checked">教师
+<input type="radio" name="kind" value="student">学生
+</div>
+<button id="login" class="btn btn-success btn-block">
+登录
+</button>
+<!--  <a href="../pages/index.html" class="btn btn-success btn-block">登录</a> -->
+</div>
+</div>
+<!-- 表单 -->
+<div class="col-md-6">
+<h3 style="color: #FFAAA5">欢迎登录业米网</h3>
+<ul>
+	<li style="font-size: 18px">学号: 1408093028</li>
+            <li style="font-size: 18px">姓名：梁安迪</li>
+            <li style="font-size: 18px">手机：13027205863</li>
+            <li style="font-size: 18px">常用邮箱: 2587505012@qq.com</li>
+	</ul>
+</div>
+</div>
+</div>
+<script src="../vendor/jquery/jquery.min.js"></script>
+<script src="../js/login.js"></script>
+<script src="../js/tologin.js"></script>
+<script src="../layer/layer.js"></script>
+</body>
+</html>
+
+
+
+

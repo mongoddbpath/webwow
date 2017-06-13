@@ -1,0 +1,60 @@
+        #try{
+               -webkit-column-width:236px;
+                -moz-column-width:236px;
+        /*        -webkit-column-gap:2px;
+                -moz-column-gap:2px;*/
+  /*              display: flex;
+                flex-wrap: wrap;*/
+  /*              justify-content: end;
+                align-content: space-between;
+                position: relative;*/
+
+
+                }
+
+        .yanCon{
+
+    /*            float: left;*/
+                width: 236px;
+/*                height: auto;*/
+                height: auto;
+    /*            max-height: 334px;*/
+                display: flex;
+                padding : 15px 0 0 15px;
+                border: 1px solid #CCC;
+                border-radius: 5px;
+                box-shadow: 0 0 5px #CCC;
+                margin: 12px;
+                /*一般实际生产情况下不要用margin*/
+
+            }
+
+/*        #hai{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                align-items: center;
+        }*/
+        
+        .topadding{
+                   padding: 10px;
+
+
+            }
+
+        .news{
+/*                    display: block;*/
+                    width: 200px;
+                    height: auto;
+/*                    border-bottom:1px solid #bdc3c7;*/
+                }
+
+        .xingming{
+                    width: 200px;
+/*                    height: auto;*/
+                }
+
+        .shijian{
+                    width: 200px;
+/*                    height:auto;*/
+                }
