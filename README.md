@@ -2,7 +2,7 @@
 ## 该项目源于一次专业任选课的大作业，是基于MVC的PHP个人项目
 ![](http://or30iz1wj.bkt.clouddn.com/webwow.jpg)
 ### 该项目的技术栈有  ： 
-&emsp;&emsp;WampServer , Bootstrap , Jquery , Ajax， PHP, Mysql , 高德地图API , underscore.js ，Layer.Js ...
+&emsp;&emsp;WampServer ,Bootstrap ,Jquery ,Ajax ,PHP ,Mysql ,高德地图API ,underscore.js ,Layer.Js ...
 ### 该项目实现的功能有 ：
   ```
   1.基于MVC的个人PHP项目
@@ -21,6 +21,6 @@
   1.将项目代码克隆 : git clone https://github.com/mongoddbpath/webwow.git
   2.将项目代码放到自己主机的wampServer的环境下
   3.将数据库脚本导入mysql数据库
-  4.既可以在自己主机上测试运行
+  4.即可以在自己主机上测试运行
   ```
   
