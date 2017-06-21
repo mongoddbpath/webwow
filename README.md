@@ -21,6 +21,6 @@
   1.将项目代码克隆 : git clone https://github.com/mongoddbpath/webwow.git
   2.将项目代码放到自己主机的wampServer的环境下
   3.将数据库脚本导入mysql数据库
-  4.即可以在自己主机上测试运行
+ 4.即可以在自己主机上测试运行
   ```
   
