@@ -1,5 +1,5 @@
 # webwow
-## 该项目源于一次专业任选课的大作业，是基于MVC的PHP个人项目
+## 该项目源于毕业论文，是基于MVC的PHP个人项目，从需求分析，到代码构建，再到系统测试大部分是个人独立完成
 ![](http://or30iz1wj.bkt.clouddn.com/webwow.jpg)
 ### 该项目的技术栈有  ： 
 &emsp;&emsp;WampServer ,Bootstrap ,Jquery ,Ajax ,PHP ,Mysql ,高德地图API ,underscore.js ,Layer.Js ...
